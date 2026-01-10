@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Pelajari dalam 5 menit
+              Lihat Dokumentasi
           </Link>
         </div>
       </div>
@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Dokumentasi sistem informasi manajemen unit kegiatan mahasiswa">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
