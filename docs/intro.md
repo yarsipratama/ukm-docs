@@ -2,46 +2,87 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Selamat datang di dokumentasi **Sistem Informasi dan Manajemen UKM** 🎓✨
 
-## Getting Started
+## Pendahuluan
 
-Get started by **creating a new site**.
+Dokumentasi ini dirancang sebagai panduan resmi bagi seluruh pengguna sistem dalam mengelola aktivitas Unit Kegiatan Mahasiswa (UKM) secara digital, terstruktur, dan transparan.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Sistem ini membantu UKM dan pihak kampus dalam mengelola keanggotaan dan kegiatan (event) secara terpusat, mudah digunakan, dan terdokumentasi dengan baik.
 
-### What you'll need
+### Tujuan Sistem
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Sistem Informasi & Manajemen UKM dibuat untuk:
 
-## Generate a new site
+- Menyederhanakan proses administrasi UKM
+- Meningkatkan transparansi data anggota dan kegiatan
+- Mempermudah pelaporan kegiatan kepada pihak kampus
+- Mendukung transformasi digital organisasi kemahasiswaan
 
-Generate a new Docusaurus site using the **classic template**.
+### Peran Pengguna (User Roles)
 
-The classic template will automatically be added to your project after you run the command:
+Sistem ini memiliki beberapa peran pengguna. Dokumentasi ini difokuskan pada peran berikut:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- Administrator
+- Pengurus UKM
+- Pihak Kampus
+- Anggota UKM
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+> ⚠️ Peran Administrator bersifat teknis dan tidak dibahas dalam dokumentasi ini.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+---
 
-## Start your site
+## Fitur Utama Sistem
 
-Run the development server:
+### Manajemen Anggota UKM
 
-```bash
-cd my-website
-npm run start
-```
+Fitur ini digunakan untuk mengelola seluruh data keanggotaan UKM, mulai dari pendaftaran hingga status keaktifan anggota.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Fungsi utama:
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+- Pendataan anggota UKM
+- Pengelompokan anggota berdasarkan jabatan atau status
+- Monitoring keaktifan anggota
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### Manajemen Event UKM
+
+Fitur ini digunakan untuk mengelola seluruh kegiatan dan acara yang diselenggarakan oleh UKM.
+
+Fungsi utama:
+
+- Pembuatan dan publikasi event
+- Pencatatan peserta kegiatan
+- Dokumentasi dan pelaporan kegiatan
+
+---
+
+## Keamanan & Akses Data
+
+Sistem ini menerapkan pembatasan akses berdasarkan peran pengguna untuk menjaga keamanan dan kerahasiaan data.
+
+- Setiap pengguna hanya dapat mengakses fitur sesuai perannya
+- Data dikelola secara terpusat dan terdokumentasi
+
+---
+
+## Update & Maintenance
+
+### Update Fitur
+
+Fitur-fitur pada sistem informasi ini akan berkembang menyesuaikan dengan kebutuhan, baik dari pihak kampus maupun pengurus UKM sendiri.
+
+### Maintenance
+
+Sistem informasi ini dikembangkan oleh mahasiswa-mahasiswi jurusan Teknik Informatika Non-Reguler Angkatan 2025 yang mencakup pengurus UKM Backeng Engineering.
+
+---
+
+## Penutup
+
+Dokumentasi ini diharapkan dapat membantu seluruh pengguna dalam memahami dan menggunakan Sistem Informasi & Manajemen UKM secara optimal.
+
+Jika Anda menemukan kendala atau membutuhkan bantuan lebih lanjut, silakan hubungi pengelola sistem di lingkungan kampus Anda.
+
+Selamat menggunakan sistem, dan semoga aktivitas UKM semakin tertata dan berdampak! 🚀
