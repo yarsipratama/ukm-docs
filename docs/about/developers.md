@@ -47,7 +47,7 @@ Tanggung Jawab:
 |----|-----------------------|-----------|
 | 1  | Ruswandi              | 250702041 |
 | 2  | Muhammad Andri Aditya | 250702037 |
-| 3  | -                     | -         |
+| 3  | Diah                  | 250702044 |
 
 Tanggung Jawab:
 
@@ -76,9 +76,9 @@ Tanggung Jawab:
 
 ### Fullstack Developer / Integrator
 
-| No | Nama | NIM |
-|----|------|-----|
-| 1  | -    | -   |
+| No | Nama           | NIM       |
+|----|----------------|-----------|
+| 1  | Ilham Ramadhan | 250702036 |
 
 Tanggung Jawab:
 
@@ -147,17 +147,17 @@ Tanggung Jawab:
 
 ## Rekapitulasi Jumlah Personel
 
-|    No     | Peran                               |  Jumlah  |
-|:---------:|-------------------------------------|:--------:|
-|     1     | Lead Developer / Technical Lead     |    1     |
-|     2     | Backend Developer                   |    3     |
-|     3     | Frontend Developer                  |    3     |
-|     4     | Fullstack Developer / Integrator    |    1     |
-|     5     | UI/UX Designer                      |    2     |
-|     6     | Technical Writer / Dokumentasi      |    2     |
-|     7     | Quality Assurance (QA) / Tester     |    3     |
-|     8     | Project Administrator / Koordinator |    1     |
-| **Total** |                                     | 16 Orang |
+|    No     | Peran                               |    Jumlah    |
+|:---------:|-------------------------------------|:------------:|
+|     1     | Lead Developer / Technical Lead     |      1       |
+|     2     | Backend Developer                   |      3       |
+|     3     | Frontend Developer                  |      3       |
+|     4     | Fullstack Developer / Integrator    |      1       |
+|     5     | UI/UX Designer                      |      2       |
+|     6     | Technical Writer / Dokumentasi      |      2       |
+|     7     | Quality Assurance (QA) / Tester     |      3       |
+|     8     | Project Administrator / Koordinator |      1       |
+| **Total** |                                     | **16 Orang** |
 
 ## Penutup
 
