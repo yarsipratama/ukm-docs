@@ -60,11 +60,11 @@ Tanggung Jawab:
 
 ### Frontend Developer
 
-| No | Nama | NIM |
-|----|------|-----|
-| 1  | -    | -   |
-| 2  | -    | -   |
-| 3  | -    | -   |
+| No | Nama         | NIM       |
+|----|--------------|-----------|
+| 1  | Fernando sie | 250702034 |
+| 2  | -            | -         |
+| 3  | -            | -         |
 
 Tanggung Jawab:
 
@@ -103,10 +103,10 @@ Tanggung Jawab:
 
 ### Technical Writer / Dokumentasi
 
-| No | Nama | NIM |
-|----|------|-----|
-| 1  | -    | -   |
-| 2  | -    | -   |
+| No | Nama                  | NIM       |
+|----|-----------------------|-----------|
+| 1  | Febriyandi Ardiansyah | 250702033 |
+| 2  | Sahrulji              | 250702042 |
 
 Tanggung Jawab:
 
@@ -161,4 +161,6 @@ Tanggung Jawab:
 
 ## Penutup
 
-Dengan pembagian tugas yang jelas dan terstruktur ini, diharapkan proses pengembangan Sistem Informasi dan Manajemen UKM dapat berjalan secara efektif, terkoordinasi, dan menghasilkan sistem yang sesuai dengan kebutuhan pengguna serta standar kualitas yang telah ditetapkan.
+Dengan pembagian tugas yang jelas dan terstruktur ini, diharapkan proses pengembangan Sistem Informasi dan Manajemen UKM
+dapat berjalan secara efektif, terkoordinasi, dan menghasilkan sistem yang sesuai dengan kebutuhan pengguna serta
+standar kualitas yang telah ditetapkan.
