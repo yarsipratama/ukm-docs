@@ -97,8 +97,8 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/yarsipratama/ukm-docs",
-            label: "GitHub",
+            href: "https://ypu.web.id",
+            label: "Website UKM",
             position: "right",
           },
         ],
@@ -127,8 +127,8 @@ const config = {
                 href: "https://www.yarsipratama.ac.id",
               },
               {
-                label: "X",
-                href: "https://x.com/docusaurus",
+                label: "PMB",
+                href: "https://pmb.yarsipratama.ac.id",
               },
             ],
           },
