@@ -60,11 +60,11 @@ Tanggung Jawab:
 
 ### Frontend Developer
 
-| No | Nama         | NIM       |
-|----|--------------|-----------|
-| 1  | Fernando sie | 250702034 |
-| 2  | -            | -         |
-| 3  | -            | -         |
+| No | Nama               | NIM       |
+|----|--------------------|-----------|
+| 1  | Fernando sie       | 250702034 |
+| 2  | Gita Meida Lestari | 250702033 |
+| 3  | -                  | -         |
 
 Tanggung Jawab:
 
@@ -89,10 +89,10 @@ Tanggung Jawab:
 
 ### UI/UX Designer
 
-| No | Nama | NIM |
-|----|------|-----|
-| 1  | -    | -   |
-| 2  | -    | -   |
+| No | Nama          | NIM       |
+|----|---------------|-----------|
+| 1  | Eka Turohmah  | 250702031 |
+| 2  | Octa Putriani | 250702039 |
 
 Tanggung Jawab:
 
@@ -117,11 +117,11 @@ Tanggung Jawab:
 
 ### Quality Assurance (QA) / Tester
 
-| No | Nama | NIM |
-|----|------|-----|
-| 1  | -    | -   |
-| 2  | -    | -   |
-| 3  | -    | -   |
+| No | Nama                    | NIM       |
+|----|-------------------------|-----------|
+| 1  | Afrizalna Maulana Putra | 250702030 |
+| 2  | Haryu Bima Narbito      | 250702049 |
+| 3  | -                       | -         |
 
 Tanggung Jawab:
 
