@@ -75,7 +75,7 @@ Fitur-fitur pada sistem informasi ini akan berkembang menyesuaikan dengan kebutu
 
 ### Maintenance
 
-Sistem informasi ini dikembangkan oleh mahasiswa-mahasiswi jurusan Teknik Informatika Non-Reguler Angkatan 2025 yang mencakup pengurus UKM Backeng Engineering.
+Sistem informasi ini dikembangkan oleh mahasiswa-mahasiswi jurusan Teknik Informatika Angkatan 2025 yang sebagiannya mencakup pengurus UKM Backend Engineering.
 
 ---
 
