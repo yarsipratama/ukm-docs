@@ -6,8 +6,8 @@ sidebar_position: 1
 
 ## Struktur Tim Pengembang
 
-Pengembangan Sistem Informasi dan Manajemen Unit Kegiatan Mahasiswa (UKM) dilaksanakan oleh tim yang terdiri dari 16 (
-enam belas) orang dengan pembagian peran dan tanggung jawab yang jelas untuk menjamin efektivitas, kualitas sistem,
+Pengembangan Sistem Informasi dan Manajemen Unit Kegiatan Mahasiswa (UKM) dilaksanakan oleh tim yang terdiri dari 17 (
+tujuh belas) orang dengan pembagian peran dan tanggung jawab yang jelas untuk menjamin efektivitas, kualitas sistem,
 serta ketepatan waktu penyelesaian.
 
 ## Susunan Tim dan Tanggung Jawab
@@ -153,13 +153,13 @@ Tanggung Jawab:
 |:---------:|-------------------------------------|:------------:|
 |     1     | Lead Developer / Technical Lead     |      1       |
 |     2     | Backend Developer                   |      3       |
-|     3     | Frontend Developer                  |      3       |
+|     3     | Frontend Developer                  |      4       |
 |     4     | Fullstack Developer / Integrator    |      1       |
 |     5     | UI/UX Designer                      |      2       |
 |     6     | Technical Writer / Dokumentasi      |      2       |
 |     7     | Quality Assurance (QA) / Tester     |      3       |
 |     8     | Project Administrator / Koordinator |      1       |
-| **Total** |                                     | **16 Orang** |
+| **Total** |                                     | **17 Orang** |
 
 ## Penutup
 
