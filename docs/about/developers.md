@@ -21,7 +21,7 @@ serta ketepatan waktu penyelesaian.
 - Tilly Raycitra Widya
 
 > **Catatan:**
-> Daftar nama di atas disusun **berdasarkan urutan alfabet** dan **tidak mencerminkan peringkat, tingkat kepentingan,
+> Daftar nama, baik di atas maupun di bawah ini, disusun **berdasarkan urutan alfabet** dan **tidak mencerminkan peringkat, tingkat kepentingan,
 senioritas, atau penilaian apa pun**.
 
 ---
@@ -45,9 +45,9 @@ Tanggung Jawab:
 
 | No | Nama                  | NIM       |
 |----|-----------------------|-----------|
-| 1  | Ruswandi              | 250702041 |
+| 1  | Diah                  | 250702044 |
 | 2  | Muhammad Andri Aditya | 250702037 |
-| 3  | Diah                  | 250702044 |
+| 3  | Ruswandi              | 250702041 |
 
 Tanggung Jawab:
 
@@ -62,7 +62,7 @@ Tanggung Jawab:
 
 | No | Nama               | NIM       |
 |----|--------------------|-----------|
-| 1  | Fernando sie       | 250702034 |
+| 1  | Fernando Sie       | 250702034 |
 | 2  | Gita Meida Lestari | 250702035 |
 | 3  | Nur Muhamad Anshor | 250702014 |
 
@@ -120,8 +120,8 @@ Tanggung Jawab:
 | No | Nama                    | NIM       |
 |----|-------------------------|-----------|
 | 1  | Afrizalna Maulana Putra | 250702030 |
-| 2  | Haryu Bima Narbito      | 250702049 |
-| 3  | Fauziah Maulana         | 250702032 |
+| 2  | Fauziah Maulana         | 250702032 |
+| 3  | Haryu Bima Narbito      | 250702049 |
 
 Tanggung Jawab:
 
