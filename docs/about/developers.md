@@ -43,11 +43,11 @@ Tanggung Jawab:
 
 ### Backend Developer
 
-| No | Nama | NIM |
-|----|------|-----|
-| 1  | -    | -   |
-| 2  | -    | -   |
-| 3  | -    | -   |
+| No | Nama                  | NIM       |
+|----|-----------------------|-----------|
+| 1  | Ruswandi              | 250702041 |
+| 2  | Muhammad Andri Aditya | 250702037 |
+| 3  | -                     | -         |
 
 Tanggung Jawab:
 
@@ -63,8 +63,8 @@ Tanggung Jawab:
 | No | Nama               | NIM       |
 |----|--------------------|-----------|
 | 1  | Fernando sie       | 250702034 |
-| 2  | Gita Meida Lestari | 250702033 |
-| 3  | -                  | -         |
+| 2  | Gita Meida Lestari | 250702035 |
+| 3  | Nur Muhamad Anshor | 250702014 |
 
 Tanggung Jawab:
 
@@ -121,7 +121,7 @@ Tanggung Jawab:
 |----|-------------------------|-----------|
 | 1  | Afrizalna Maulana Putra | 250702030 |
 | 2  | Haryu Bima Narbito      | 250702049 |
-| 3  | -                       | -         |
+| 3  | Fauziah Maulana         | 250702032 |
 
 Tanggung Jawab:
 
@@ -132,9 +132,9 @@ Tanggung Jawab:
 
 ### Project Administrator / Koordinator
 
-| No | Nama | NIM |
-|----|------|-----|
-| 1  | -    | -   |
+| No | Nama            | NIM       |
+|----|-----------------|-----------|
+| 1  | Ayu Lovita Sari | 250702006 |
 
 Tanggung Jawab:
 
