@@ -21,7 +21,8 @@ serta ketepatan waktu penyelesaian.
 - Tilly Raycitra Widya
 
 > **Catatan:**
-> Daftar nama, baik di atas maupun di bawah ini, disusun **berdasarkan urutan alfabet** dan **tidak mencerminkan peringkat, tingkat kepentingan,
+> Daftar nama, baik di atas maupun di bawah ini, disusun **berdasarkan urutan alfabet** dan **tidak mencerminkan
+peringkat, tingkat kepentingan,
 senioritas, atau penilaian apa pun**.
 
 ---
@@ -62,9 +63,10 @@ Tanggung Jawab:
 
 | No | Nama               | NIM       |
 |----|--------------------|-----------|
-| 1  | Fernando Sie       | 250702034 |
-| 2  | Gita Meida Lestari | 250702035 |
-| 3  | Nur Muhamad Anshor | 250702014 |
+| 1  | Ahmad Yadi         | 250702025 |
+| 2  | Fernando Sie       | 250702034 |
+| 3  | Gita Meida Lestari | 250702035 |
+| 4  | Nur Muhamad Anshor | 250702014 |
 
 Tanggung Jawab:
 
